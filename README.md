@@ -1,4 +1,4 @@
 # commerce-kickstarter-docker
-Docker container for Commerce Kickstart with in container mysql server.
+Docker container for Commerce Kickstart based on the drupal:7 Dockerfile.
 
-Also configures drush, composer and openssh-server.
+Installs drush to /usr/local/bin.
